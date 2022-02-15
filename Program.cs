@@ -6,7 +6,7 @@ namespace LeetCodeCollection
     {
         static void Main(string[] args)
         {
-            ProblemNo13.RunCase();
+            ProblemNo136.RunCase();
         }
     }
 }
